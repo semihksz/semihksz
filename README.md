@@ -57,9 +57,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semihksz&show_icons=true&locale=en" height="130" alt="semihksz" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semihksz&" height="130" alt="semihksz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=semihksz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="130" alt="semihksz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=semihksz&show_icons=true&locale=en" height="180" alt="semihksz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semihksz&" height="180" alt="semihksz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=semihksz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="180" alt="semihksz" />
 </div>
 
 ###
