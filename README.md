@@ -4,8 +4,10 @@
 ###
 
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=semihksz&label=Profile%20views&color=0e75b6&style=flat" alt="semihksz" /> 
+  █▓▒░░ VISITOR COUNT ░░▒▓█<br>
+  <img src="https://profile-counter.glitch.me/semihksz/count.svg"/>
 </div>
+
 
 ###
 
@@ -20,7 +22,9 @@
 
 ###
 
+
 <div align="center">
+  <h2 align="center">🛠 Technologies and Tools 🛠</h2>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" height="40"/>
   </a> 
@@ -51,6 +55,7 @@
 ###
 
 <div align="end"> 
+    <h2 align="center">🔥 GitHub Stats 🔥</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=semihksz&title=Commits,Repositories,Experience,Followers&theme=dracula" alt="semihksz" />
 </div>
 
