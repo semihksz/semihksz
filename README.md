@@ -3,14 +3,6 @@
 
 ###
 
-<div align="center"> 
-  █▓▒░░ VISITOR COUNT ░░▒▓█<br>
-  <img src="https://profile-counter.glitch.me/semihksz/count.svg"/>
-</div>
-
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/semih-oksuz/" target="blank">
   <img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="semiköksüz" />
@@ -57,13 +49,6 @@
 <div align="end"> 
     <h2 align="center">🔥 GitHub Stats 🔥</h2>
     <img src="https://github-profile-trophy.vercel.app/?username=semihksz&title=Commits,Repositories,Experience,Followers&theme=dracula" alt="semihksz" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=semihksz&show_icons=true&locale=en" height="180" alt="semihksz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=semihksz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="180" alt="semihksz" />
 </div>
 
 ###
