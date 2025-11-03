@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">As a Back-End Developer, I am trying to improve myself in this area. I create individual projects with PHP, Laravel, NodeJS, MySQL.</h3>
+<h3 align="center">As a seasoned web developer with three years of experience, I specialize in delivering modern and dynamic web solutions. I excel in building powerful applications with the MERN stack (MongoDB, Express.js, React, Node.js). I leverage n8n for process automation, streamlining workflows and system integrations. My growing proficiency in Java also allows me to contribute to enterprise-level solutions. My core competencies further include developing robust and user-friendly web projects with Laravel, MySQL, HTML/CSS/JavaScript, and Bootstrap 5. My goal is to bring a versatile, innovative, and professional approach to successfully deliver your projects.
+
+</h3>
 
 ###
 
