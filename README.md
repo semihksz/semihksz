@@ -70,14 +70,6 @@
 
 ###
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=semihksz&title=Commits,Repositories,Experience,Followers&theme=dracula" alt="semihksz trophy" />
-</div>
-
-###
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semihksz/semihksz/output/github-contribution-grid-snake-dark.svg">
