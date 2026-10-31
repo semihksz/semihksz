@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Semih%20%C3%96ks%C3%BCz&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Laravel%20%26%20React%20%C2%B7%20Backend%20Architecture&descAlignY=60&descSize=17" alt="Semih Öksüz" />
-
-<a href="https://github.com/semihksz">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Ölçeklenebilir+backend+sistemleri+tasarlıyorum;Interface+%2F+Service+%2F+Repository+mimarisi;Test+odaklı%2C+temiz+ve+sürdürülebilir+kod;Laravel+%E2%86%92+.NET+%26+Java+ile+mikroservislere" alt="Typing SVG" />
-</a>
-
-<br/>
+<h1>Semih Öksüz</h1>
+<h3>Full-Stack Developer · Laravel & React · Backend Mimarisi</h3>
+<p><em>Ölçeklenebilir, test edilebilir ve sürdürülebilir sistemler tasarlıyorum.</em></p>
 
 <a href="https://semihoksuz.com/"><img src="https://img.shields.io/badge/Portfolio-semihoksuz.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/semih-oksuz/"><img src="https://img.shields.io/badge/LinkedIn-Semih%20%C3%96ks%C3%BCz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -100,12 +96,12 @@ Matematik, sağlık, finans, tarih/saat ve geliştirici araçlarını kategori b
 </picture>
 </div>
 
+---
+
 <div align="center">
 
 ### 🤝 Birlikte bir şeyler üretelim
 
 Bir proje, iş birliği ya da sohbet için [LinkedIn](https://www.linkedin.com/in/semih-oksuz/) veya [e-posta](mailto:oksuzsemih@hotmail.com) üzerinden ulaşabilirsin.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ea5e9,50:1e3a8a,100:0f172a&section=footer" alt="footer" />
 
 </div>
